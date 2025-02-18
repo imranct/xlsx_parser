@@ -1,0 +1,5 @@
+google-cloud-storage
+functions-framework
+pandas
+openpyxl
+xlrd==2.0.1
